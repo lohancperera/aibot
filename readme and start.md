@@ -15,7 +15,7 @@ this bot is being start
     
   ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-MDV2?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Lchaviru/AQUABOT-MDV2?v=1)
 
 ## QR කේතය ලබා ගත් පසු බොට් ඩිප්ලෝයි කිරීමට  පහල බටනය මත CLICK කරන්න..
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lohancperera/aibot)
@@ -25,6 +25,6 @@ this bot is being start
  ###  Developer :- Lohan chaviru perera 
 
 
- 
+ https://replit.com/@LChaviru
   
  
